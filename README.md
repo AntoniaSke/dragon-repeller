@@ -3,7 +3,7 @@
 Ένα μικρό browser RPG γραμμένο σε **HTML, CSS και JavaScript**.  
 Στόχος του παιχνιδιού είναι να νικήσεις το δράκο που τρομοκρατεί την πόλη, μαζεύοντας XP, χρυσό και καλύτερα όπλα!
 
-🎮 Παίξε το παιχνίδι online: *(βάλε εδώ το GitHub Pages link σου)*  
+🎮 Παίξε το παιχνίδι online:
 👉 https://antoniaske.github.io/dragon-repeller/
 
 ---
