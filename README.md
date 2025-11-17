@@ -4,7 +4,7 @@
 Στόχος του παιχνιδιού είναι να νικήσεις το δράκο που τρομοκρατεί την πόλη, μαζεύοντας XP, χρυσό και καλύτερα όπλα!
 
 🎮 Παίξε το παιχνίδι online: *(βάλε εδώ το GitHub Pages link σου)*  
-👉 https://your-username.github.io/dragon-repeller/
+👉 https://antoniaske.github.io/dragon-repeller/
 
 ---
 
